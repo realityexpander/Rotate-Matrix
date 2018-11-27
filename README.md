@@ -28,3 +28,10 @@ Rotated:
 [“E”, “A”, 6, 2],
 [“F”,”B”, 7, 3],
 [“G”,”C”, 8, 4] ]
+
+EXTRA CREDIT
+- Make your function operate on rectangular matrices (MxN rather than NxN).
+- Make your function accept a parameter for the direction of rotation (1 = clockwise, -1 = counterclockwise)
+
+Important note:
+In mathematics, and generally in CS, matrices are identified as m-by-n, where m is the number of rows and n is the number of columns. So an [i][j] address in a matrix will be i places down, and j places over. This usually matches the way arrays are addressed in code, but keep in mind that it differs from use in geometry and computer graphics, where coordinates of the form (x,y) are usually x units over, and y units down.
